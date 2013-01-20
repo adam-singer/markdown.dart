@@ -1,0 +1,7 @@
+name:  markdown
+description:  A markdown application
+
+dependencies:
+#  js: any
+  browser: any
+  unittest: any
